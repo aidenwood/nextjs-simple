@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Front-End Design thinking for {' '}
-          <code className={styles.code}>Next.js</code> and <code className={styles.code}>CSS3</code>
+          <code className={styles.code}>Next.JS</code> and <code className={styles.code}>CSS3</code>
         </p>
 
         <div className={styles.grid}>
